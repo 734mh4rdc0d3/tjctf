@@ -1,0 +1,16 @@
+check cookie editor in firefox. on the VIP access page there is a cookie named 'data' which has value base64 encoded.
+
+decoded value is a dictionary
+
+{"1":false,"2":false,"3":false,"4":false,"5":false,"6":false,"7":false,"8":false,"9":false,"10":false}
+
+I iterated over all the possibilities of true and false of all the 1024 values.
+
+in the end, the combinations that didnt returned access denied was
+{"1":true,"2":true,"3":true,"4":true,"5":true,"6":true,"7":true,"8":true,"9":true,"10":true}
+base64: eyIxIjp0cnVlLCIyIjp0cnVlLCIzIjp0cnVlLCI0Ijp0cnVlLCI1Ijp0cnVlLCI2Ijp0cnVlLCI3Ijp0cnVlLCI4Ijp0cnVlLCI5Ijp0cnVlLCIxMCI6dHJ1ZX0=
+
+i guess, i should have checked previously.
+
+flag was returned in the response.text
+flag: tjctf{C4r1b0u_B4rb1e}

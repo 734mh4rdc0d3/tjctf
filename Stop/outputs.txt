@@ -1,0 +1,52 @@
+letter:  a
+{'Country Capitals': 'Abu Dhabi', 'Electronics and Gadgets': 'Apple iPod', 'Sports': 'Archery', 'Things You Keep Hidden': 'Age', 'Top Broadway Shows': 'Annie'}
+letter:  b
+{'Country Capitals': 'Brussels', 'Electronics and Gadgets': 'Bose Headphones', 'Sports': 'Bicycle', 'Things You Keep Hidden': '/bin/sh', 'Top Broadway Shows': 'Born Yesterday'}
+letter:  c
+{'Country Capitals': 'Cairo', 'Electronics and Gadgets': 'Calculator', 'Sports': 'Canoeing', 'Things You Keep Hidden': 'Cash', 'Top Broadway Shows': 'Cats'}
+letter:  d
+{'Country Capitals': 'Dakar', 'Electronics and Gadgets': 'Disk', 'Sports': 'Diving', 'Things You Keep Hidden': 'Diary', 'Top Broadway Shows': 'Deathtrap'}
+letter:  e
+{'Country Capitals': 'Episkopi Cantonment', 'Electronics and Gadgets': 'Electric Razor', 'Sports': 'Earrings', 'Things You Keep Hidden': 'Evita', 'Top Broadway Shows': '(null)'}
+letter:  f
+{'Country Capitals': 'Freetown', 'Electronics and Gadgets': 'Flip', 'Sports': 'Fishing', 'Things You Keep Hidden': 'Fear', 'Top Broadway Shows': 'Fosse'}
+letter:  g
+{'Country Capitals': 'Georgetown', 'Electronics and Gadgets': 'Google Pixel', 'Sports': 'Golf', 'Things You Keep Hidden': 'Gold', 'Top Broadway Shows': 'Grease'}
+letter:  h
+{'Country Capitals': 'Hanoi', 'Electronics and Gadgets': 'Hearing Aids', 'Sports': 'Hockey', 'Things You Keep Hidden': 'Heart', 'Top Broadway Shows': 'Hair'}
+letter:  i
+{'Country Capitals': 'Islamabad', 'Electronics and Gadgets': 'Ice Cream Maker', 'Sports': 'Ice Skating', 'Things You Keep Hidden': 'Identity', 'Top Broadway Shows': 'In the Heights'}
+letter:  j
+{'Country Capitals': 'Jamestown', 'Electronics and Gadgets': 'Juicer', 'Sports': 'Judo', 'Things You Keep Hidden': 'Jewelry', 'Top Broadway Shows': 'Jersey Boys'}
+letter:  k
+{'Country Capitals': 'Kabul', 'Electronics and Gadgets': 'Kindle', 'Sports': 'Kayaking', 'Things You Keep Hidden': 'Keys', 'Top Broadway Shows': 'Kiss Me, Kate'}
+letter:  l
+{'Country Capitals': 'Lisbon', 'Electronics and Gadgets': 'Lithium', 'Sports': 'Lacrosse', 'Things You Keep Hidden': 'Love', 'Top Broadway Shows': 'Life with Father'}
+letter:  m
+{'Country Capitals': 'Madrid', 'Electronics and Gadgets': 'Motor', 'Sports': 'Miniature Golf', 'Things You Keep Hidden': 'Money', 'Top Broadway Shows': 'Mame'}
+letter:  n
+{'Country Capitals': 'Nuuk', 'Electronics and Gadgets': 'Nikon', 'Sports': 'Netball', 'Things You Keep Hidden': 'Name', 'Top Broadway Shows': 'Neil Simon'}
+letter:  o
+{'Country Capitals': 'Oslo', 'Electronics and Gadgets': 'Optical Media', 'Sports': 'Open Water Swimming', 'Things You Keep Hidden': 'Odor', 'Top Broadway Shows': 'Oklahoma!'}
+letter:  p
+{'Country Capitals': 'Paris', 'Electronics and Gadgets': 'Pacemaker', 'Sports': 'Polo', 'Things You Keep Hidden': 'Purse', 'Top Broadway Shows': 'Pippin'}
+letter:  q
+{'Country Capitals': 'Quito', 'Electronics and Gadgets': 'Quantum Accelerator', 'Sports': 'Quadrathlon', 'Things You Keep Hidden': 'Questions', 'Top Broadway Shows': 'Quadrophenia'}
+letter:  r
+{'Country Capitals': 'Rome', 'Electronics and Gadgets': 'Repeater', 'Sports': 'Running', 'Things You Keep Hidden': 'Rings', 'Top Broadway Shows': 'Rent'}
+letter:  s
+{'Country Capitals': 'Seoul', 'Electronics and Gadgets': 'Scanner', 'Sports': 'Sailing', 'Things You Keep Hidden': 'Secrets', 'Top Broadway Shows': 'Spamalot'}
+letter:  t
+{'Country Capitals': 'Tokyo', 'Electronics and Gadgets': 'Transformer', 'Sports': 'Tennis', 'Things You Keep Hidden': 'Treasure', 'Top Broadway Shows': 'The Lion King'}
+letter:  u
+{'Country Capitals': 'Ulaanbaatar', 'Electronics and Gadgets': 'UV Lighter', 'Sports': 'Unicycle', 'Things You Keep Hidden': 'Underwear', 'Top Broadway Shows': 'Urban Cowboy'}
+letter:  v
+{'Country Capitals': 'Vienna', 'Electronics and Gadgets': 'Velcro', 'Sports': 'Volleyball', 'Things You Keep Hidden': 'Valuables', 'Top Broadway Shows': 'Violet'}
+letter:  w
+{'Country Capitals': 'Warsaw', 'Electronics and Gadgets': 'Wet bike', 'Sports': 'Walking', 'Things You Keep Hidden': 'Wallet', 'Top Broadway Shows': 'Wicked'}
+letter:  x
+{'Country Capitals': "Xi'an", 'Electronics and Gadgets': 'X-Ray', 'Sports': 'Xare', 'Things You Keep Hidden': 'Xanax', 'Top Broadway Shows': 'Xanadu'}
+letter:  y
+{'Country Capitals': 'Yaren', 'Electronics and Gadgets': 'Yagi Antenna', 'Sports': 'Yak Polo', 'Things You Keep Hidden': 'Youth', 'Top Broadway Shows': 'Yentl'}
+letter:  z
+{'Country Capitals': 'Zagreb', 'Electronics and Gadgets': 'Zippo', 'Sports': 'Zui Quan', 'Things You Keep Hidden': 'Zits', 'Top Broadway Shows': 'Zorba'}

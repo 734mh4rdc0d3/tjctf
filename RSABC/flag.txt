@@ -1,0 +1,27 @@
+the question's name direct us to RSA algorithm.
+
+the link to the youtube video has nothing in it.
+
+the second link gives use values
+n=57772961349879658023983283615621490728299498090674385733830087914838280699121
+e=65537
+c=36913885366666102438288732953977798352561146298725524881805840497762448828130
+
+we need to find p and q corresponding to n.
+factordb.com gives p and q.
+p = 202049603951664548551555274464815496697
+q = 285934543893985722871321330457714807993
+
+now dcode.fr has all the tools to use on rsa.
+https://www.dcode.fr/big-numbers-multiplication to mulitply big numbers and find phi(n)
+phi(n) = 57772961349879658023983283615621490727811513942828735462407211309915750394432
+
+https://www.dcode.fr/modular-inverse to calculate d
+d = 44272299081643288299441360906720516766592151810988369202023512922571811592065
+
+https://www.dcode.fr/modular-exponentiation to calculate m
+m = 10141227296934397750285339393723710527726461
+
+unhexlifying this message gives:
+
+flag: tjctf{BOLm1QMWi3c}

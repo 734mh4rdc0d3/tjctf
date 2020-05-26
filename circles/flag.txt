@@ -1,0 +1,6 @@
+identify font from https://www.whatfontis.com/NFC_USF-Circular-Designs-Regular.font?text=tjc
+character map of font https://www.fonts.com/font/ultimate-symbol/usf-circular-designs/regular
+
+flag translates to
+
+flag: tjctf{B3auT1ful_f0Nt}

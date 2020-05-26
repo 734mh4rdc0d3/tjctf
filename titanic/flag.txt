@@ -1,0 +1,7 @@
+found subtitle from yify.
+
+removed punctuations like (, ), --> , ,, ., <i>, </i> etc.
+
+now the file was fed to the code and it gave the flag.
+
+flag: tjctf{ismay's}

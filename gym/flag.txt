@@ -1,0 +1,11 @@
+the binary is given and same binary is executed on a server.
+
+a combination of [1,2,3,4] 7 times is reqd to send to the binary.
+
+pwn library is used for this purpose. if the end result doesnt contain the string "didn't reach my goal" then it could be the one.
+
+a brute forcer of the combination is passed to the binary by creating a process and killing it if the output is not desired.
+
+at the end combination returned is: (1,1,1,1,3,3)
+
+flag: tjctf{w3iGht_l055_i5_d1ff1CuLt}

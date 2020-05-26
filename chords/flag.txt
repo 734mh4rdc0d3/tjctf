@@ -1,0 +1,16 @@
+the given song is encoeded with the given chords set and the encoder of the song is also given.
+
+reversing of the encoding is given in the decoder.py but the song chords have prefix dependency in them as chord 'd'(010) and chord 'e'(0100) have same prefix. and also chords 'D'(020) and chord 'E'(0200). Therefore while reading the song, there may be cases like:
+
+lets parts of the song decoded till now be:
+[('1121', '1121'), ('1121', '1002'), ('1121', '0112'), ('1121', '001'), ('001', '2100'), ('001', '0122'), ('1121', '0112'), ('001', '020'), ('001', '1012'), ('0200', '1011'), ('001', '001'), ('1121', '1011'), ('001', '020'), ('0200', '1011'), ('1012', '0112'), ('0200', '1011'), ('1121', '1012'), ('1121', '0112'), ('1121', '1002'), ('1121', '1002'), ('0200', '1011'), ('1121', '0112'), ('0200', '1011'), ('1121', '010'), ('1121', '020')]
+ and remaining song be like:
+01121100211211011020020001010
+
+further decoding the song would give a key error, therefore we need to backtrack a little and see the last part that was decoded.
+('1121', '020')
+instead of second char of the part be 020, make it 0200 and delete a 0 from the remaining song. and declare again in the decode.py.
+
+All such errors are written a such with error rectified.
+
+flag: flag{zats_wot_1_call_a_meloD}

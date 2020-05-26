@@ -1,0 +1,3 @@
+ROT 17 cipher identified from cyberchef.
+
+flag: TJCTF{NEW_TECH_NEW_TECH_GO_FAST_GO_FAST}
