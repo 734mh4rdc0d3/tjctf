@@ -1,0 +1,1 @@
+The flag was a image in  announcement of Discord channel.
